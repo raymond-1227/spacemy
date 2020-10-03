@@ -252,3 +252,15 @@ audio {
 #custompadding {
   padding-right: 20px
 }
+
+.extended {
+  background-color: #1a1a1a;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.blogSection {
+  background-color: #1a1a1a;
+  border: 0px;
+  border-radius: 5px;
+}
