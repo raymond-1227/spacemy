@@ -87,12 +87,13 @@ a:hover {
 }
 
 .headerTop {
-  padding-left: 20px;
+  background-color: #7d170e;
+  padding-left: 25px;
 }
 
 .headerBottom {
   background-color: #ff7400;
-  padding-left: 20px;
+  padding-left: 25px;
 }
 
 .headerTop a, .headerBottom a {
