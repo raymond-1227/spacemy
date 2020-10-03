@@ -249,8 +249,8 @@ a:hover {
 
 audio {
   transition: all 0.5s;
-  width: 50px;
-  border-radius: 45px;
+  width: 48px;
+  border-radius: 50px;
 }
 
 #custompadding {
