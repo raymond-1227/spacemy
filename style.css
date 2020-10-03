@@ -8,7 +8,7 @@ body {
 .container {
   background-color: black;
   color: white;
-  width: 100vw;
+  width: 90vw;
   overflow: auto;
 }
 
@@ -44,8 +44,8 @@ a:hover {
 }
 
 .about {
-  background-color: #15ac59;
-  color: #e2e2e2;
+  background-color: #17bf63;
+  color: white;
   padding-top: 2px;
   padding-bottom: 2px;
   padding-left: 25px;
@@ -79,15 +79,15 @@ a:hover {
 }
 
 .tableLeft {
-  background: #1f1f1f;
+  background-color: #1f1f1f;
 }
 
 .tableRight {
-  background: #2b2b2b;
+  background-color: #2b2b2b;
 }
 
 .headerTop {
-  padding-left: 20px
+  padding-left: 20px;
 }
 
 .headerBottom {
@@ -95,12 +95,29 @@ a:hover {
   padding-left: 20px;
 }
 
-.headerBottom a {
+.headerTop a, .headerBottom a {
   color: white;
   transition: color 0.3s linear;
+  text-decoration: none;
 }
 
-.headerBottom a:hover {
+.headerTop a:hover, .headerBottom a:hover {
   color: #cfcfcf;
   transition: color 0.3s linear;
+  text-decoration: none;
+}
+
+#friends {
+  background-color: #1a1a1a;
+  border: 0px;
+}
+
+audio {
+  transition: all 0.5s;
+  width: 50px;
+  border-radius: 45px;
+}
+
+#floatRight form {
+  display: none;
 }
