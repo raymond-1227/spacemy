@@ -263,4 +263,6 @@ audio {
   background-color: #1a1a1a;
   border: 0px;
   border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 25px;
 }
