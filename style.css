@@ -60,15 +60,16 @@ a:hover {
 }
 
 .contacting {
-    border: 0px;
-}
-
-.contactingTopbar {
   background-color: #1a1a1a;
   color: white;
   border: 0px;
   border-radius: 5px;
   padding: 12px;
+}
+
+.contactingTopbar {
+  background-color: #1a1a1a;
+  padding: 0px;
 }
 
 .comment {
@@ -195,15 +196,10 @@ a:hover {
 }
 
 .contacting {
-    border: 0px;
-}
-
-.contactingTopbar {
   background-color: #1a1a1a;
   color: white;
   border: 0px;
   border-radius: 5px;
-  padding: 12px;
 }
 
 .comment {
@@ -250,7 +246,6 @@ a:hover {
 audio {
   transition: all 0.5s;
   width: 48px;
-  border-radius: 50px;
 }
 
 #custompadding {
@@ -280,5 +275,5 @@ audio {
 }
 
 .padding {
-  padding: 10px
+  padding: 10px;
 }
