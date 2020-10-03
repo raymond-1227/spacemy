@@ -8,7 +8,7 @@ body {
 .container {
   background-color: black;
   color: white;
-  width: 80vw;
+  width: 90vw;
   overflow: auto;
 }
 
@@ -89,20 +89,26 @@ a:hover {
 .headerTop {
   background-color: #7d170e;
   padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .headerBottom {
   background-color: #ff7400;
   padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .headerTop a, .headerBottom a {
+  font-size: 15px;
   color: white;
   transition: color 0.3s linear;
   text-decoration: none;
 }
 
 .headerTop a:hover, .headerBottom a:hover {
+  font-size: 15px;
   color: #cfcfcf;
   transition: color 0.3s linear;
   text-decoration: none;
