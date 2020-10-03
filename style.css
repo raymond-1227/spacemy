@@ -190,6 +190,10 @@ a:hover {
   padding: 12px;
 }
 
+#friends tr:nth-child(2n) {
+    background-color: #3b3b3b;
+}
+
 .contacting {
     border: 0px;
 }
@@ -265,4 +269,16 @@ audio {
   border-radius: 5px;
   padding: 10px;
   margin-bottom: 25px;
+}
+
+#friends tr:nth-child(2n) {
+  background-color: #3b3b3b;
+}
+
+.interestsAndDetails {
+  display: none;
+}
+
+.padding {
+  padding: 10px
 }
