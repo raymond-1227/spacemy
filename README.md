@@ -1,5 +1,8 @@
 # spacemyrebooted CSS
-This is an example CSS code for the bot page. For live example, [click here](https://www.spacemy.xyz/profile.php?id=82) for it.
+This is an example CSS code for the bot page. 
+For live example:
+Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=82)
+Scary Edition: [666](https://www.spacemy.xyz/profile.php?id=195)
 
 ## Tutorial
 
