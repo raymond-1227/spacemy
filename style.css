@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Gotham";
+  src: url("https://gist.github.com/mfd/f3d96ec7f0e8f034cc22ea73b3797b59/raw/fad2f254369fb54250260077a4c87391a6280c52/GothamPro-Bold.woff");
+}
 body {
   background-color: black;
   color: white;
