@@ -1,0 +1,146 @@
+body {
+  background-image: url('https://www.spacemy.xyz/dynamic/files/ea92834c789c1528ee86a4d14c691f31.jpg');
+  color: white;
+  font-family: Arial;
+  font-size: 15px
+}
+
+.container {
+  background-color: transparent;
+  color: white;
+  width: 80vw;
+}
+
+.container a {
+  background-color: black;
+  color: #39ace7;
+  visibility: hidden;
+}
+
+.container a:after {
+  background-color: black;
+  color: #0784b5;
+  visibility: visible;
+  content: "dddd";
+}
+
+a {
+  background-color: black;
+  color: #39ace7;
+  visibility: hidden;
+}
+
+a:after {
+  background-color: black;
+  color: #39ace7;
+  visibility: visible;
+  content: "dddd";
+}
+
+.splashBlue {
+  background-color: black;
+  border: 0px;
+  padding: 12px;
+}
+
+.about {
+  background-color: black;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 25px;
+}
+
+.url {
+  background-color: black;
+  border: 0px;
+  padding: 12px;
+}
+
+.contacting {
+  background-color: black;
+  color: white;
+  border: 0px;
+  padding: 12px;
+}
+
+.contactingTopbar {
+  background-color: black;
+  padding: 0px;
+}
+
+.comment {
+  background-color: black;
+  border: 0px;
+  padding: 12px;
+}
+
+.tableLeft {
+  background-color: #1f1f1f;
+}
+
+.tableRight {
+  background-color: #2b2b2b;
+}
+
+.headerTop {
+  background-color: #7d170e;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.headerBottom {
+  background-color: red;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.headerTop a, .headerBottom a {
+  background-color: black;
+  font-size: 15px;
+  color: white;
+}
+
+.headerTop a:hover, .headerBottom a:hover {
+  font-size: 15px;
+  color: #cfcfcf;
+}
+
+#friends {
+  background-color: black;
+  border: 0px;
+}
+
+audio {
+  width: 50px;
+}
+
+#floatRight form {
+  display: none;
+}
+
+#custompadding {
+  padding-right: 20px
+}
+
+.extended {
+  background-color: black;
+  border: 0px;
+}
+
+.blogSection {
+  background-color: black;
+  border: 0px;
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
+#friends tr:nth-child(2n) {
+  background-color: #3b3b3b;
+}
+
+.padding {
+  padding: 10px;
+}
