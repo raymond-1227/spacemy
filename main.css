@@ -1,12 +1,13 @@
 @font-face {
   font-family: Gotham;
-  src: url("https://gist.github.com/mfd/f3d96ec7f0e8f034cc22ea73b3797b59/raw/fad2f254369fb54250260077a4c87391a6280c52/GothamPro-Bold.woff");
+  src: url("https://www.spacemy.xyz/dynamic/files/093acec89693703793bfef947d2d53fb.woff");
 }
+
 body {
   background-color: black;
   color: white;
   font-family: Gotham;
-  font-size: 15px
+  font-size: 15px;
 }
 
 .container {
