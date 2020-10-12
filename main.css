@@ -51,9 +51,9 @@ a:hover {
 .about {
   background-color: #1a1a1a;
   color: white;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 25px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 10px;
   border-radius: 5px;
 }
 
@@ -97,6 +97,7 @@ a:hover {
   padding-left: 25px;
   padding-top: 10px;
   padding-bottom: 10px;
+  background-image: none;
 }
 
 .headerBottom {
@@ -104,6 +105,7 @@ a:hover {
   padding-left: 25px;
   padding-top: 10px;
   padding-bottom: 10px;
+  background-image: none;
 }
 
 .headerTop a, .headerBottom a {
@@ -115,7 +117,7 @@ a:hover {
 
 .headerTop a:hover, .headerBottom a:hover {
   font-size: 15px;
-  color: #cfcfcf;
+  color: #e2e2e2;
   transition: color 0.3s linear;
   text-decoration: none;
 }
@@ -126,9 +128,7 @@ a:hover {
 }
 
 audio {
-  transition: all 0.5s;
-  width: 50px;
-  border-radius: 45px;
+  display: none;
 }
 
 #floatRight form {
@@ -149,7 +149,7 @@ audio {
   background-color: #1a1a1a;
   border: 0px;
   border-radius: 5px;
-  padding: 10px;
+  padding: 15px;
   margin-bottom: 25px;
 }
 
@@ -163,4 +163,12 @@ audio {
 
 .padding {
   padding: 10px;
+}
+#upltx {
+  font-family: Roboto;
+  padding-right: 125px;
+}
+
+.headerTop img {
+	content: url("https://www.spacemy.xyz/dynamic/files/f615ce90bddc90d1b7f5fa4196a4e8af.png");
 }
