@@ -1,5 +1,5 @@
 # spacemyrebooted CSS
-This is an example CSS code for the bot page. 
+This is an example CSS code for the bot page. (btw i got the owner false banned 937 R3KT)
 
 For live example:
 
