@@ -3,7 +3,7 @@ This is an example CSS code for the bot page. (btw i got the owner false banned 
 
 For live example:
 
- - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=82)
+ - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=82) (deprecated)
  
  - Scary Edition: [666](https://www.spacemy.xyz/profile.php?id=195)
 
