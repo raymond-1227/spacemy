@@ -1,9 +1,9 @@
 # spacemyrebooted CSS
-This is an example CSS code for the bot page. (btw i got the owner false banned 937 R3KT)
+This is an example CSS code for the bot page. (btw i got the owner false banned 937 R3KT so yeah the admin decided to delete my account on spacemy, but anyways i got my friend hosting the profile, so basically he does things to whatever i want but not like roast everyone, i need a place to css ok? **well tl;dr i basically made my friend own my account but i control the content, he manages the account**)
 
 For live example:
 
- - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=82) (deprecated)
+ - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=258) (Updated Profile ID from "82" to "258")
  
  - Scary Edition: [666](https://www.spacemy.xyz/profile.php?id=195)
 
