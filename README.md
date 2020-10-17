@@ -5,7 +5,7 @@ For live example:
 
  - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=258) (Updated Profile ID from "82" to "258")
  
- - Scary Edition: [666](https://www.spacemy.xyz/profile.php?id=195)
+ - Satan Edition: [666](https://www.spacemy.xyz/profile.php?id=195)
 
 ## Tutorial
 
