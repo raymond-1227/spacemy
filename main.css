@@ -7,7 +7,8 @@ body {
   background-color: black;
   color: white;
   font-family: Gotham;
-  font-size: 15px;
+  font-size: 16px;
+  line-height: 16px;
 }
 
 .container {
@@ -81,8 +82,12 @@ a:hover {
   background-color: #1a1a1a;
   border: 0px;
   border-radius: 5px;
-  padding: 12px;
+  padding: 14px;
 }
+
+table {
+  font-size: 14px;
+} 
 
 .tableLeft {
   background-color: #1f1f1f;
@@ -124,11 +129,7 @@ a:hover {
 
 #friends {
   background-color: #1a1a1a;
-  border: 0px;
-}
-
-audio {
-  display: none;
+  border: none;
 }
 
 #floatRight form {
@@ -164,6 +165,7 @@ audio {
 .padding {
   padding: 10px;
 }
+
 #upltx {
   font-family: Roboto;
   padding-right: 125px;
@@ -171,4 +173,42 @@ audio {
 
 .headerTop img {
 	content: url("https://www.spacemy.xyz/dynamic/files/f615ce90bddc90d1b7f5fa4196a4e8af.png");
+}
+
+.text {
+  background-color: black;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+tr td p {
+  width: 250px;
+}
+
+.userInfoBlog {
+  line-height: 20px;
+}
+
+#pfp {
+  height: auto;
+  width: 200px;
+  margin-right: 50px;
+}
+
+table.contactTable {
+  display: none;
+}
+
+.customTopRight {
+	line-height: 25px;
+}
+
+#friends td, #friends th {
+  border: none;
+}
+
+.blogCont {
+  background-color: black;
+  line-height: 30px;
+  padding: 12px;
 }
