@@ -1,7 +1,12 @@
 # spacemyrebooted CSS
-This is an example CSS code for the bot page. (btw i got the owner false banned 937 R3KT so yeah the admin decided to delete my account on spacemy, but anyways i got my friend hosting the profile, so basically he does things to whatever i want but not like roast everyone, i need a place to css ok? **well tl;dr i basically made my friend own my account but i control the content, he manages the account**)
 
-For live example:
+## About
+
+This is an example CSS code for the retropective MySpace recreation "spacemy" profile page.
+
+## Examples
+
+For live example: (The server of spacemy seem to be dead)
 
  - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=258) (Updated Profile ID from "82" to "258")
  
@@ -14,3 +19,9 @@ For live example:
 3. Visit the Manage User page
 4. Edit your bot CSS in the CSS section (the custom CSS form is at the Manage User page)
 5. Set and you're done!
+
+## Note (As of February 2, 2021)
+
+The server of spacemy seem to be dead after January 2021, so you probably won't be able to see the CSS contents anymore, you just won't.
+
+Well I do provide you a solution, go download the MySpace recreation project [the-real-sumsome/spacemy.xyz-rebooted](https://github.com/the-real-sumsome/spacemy.xyz-rebooted) and create your own profile to load my CSS. I wouldn't update any sort of bugs anymore from now on.
