@@ -22,6 +22,6 @@ For live example: (The server of spacemy seem to be dead)
 
 ## Note (As of February 2, 2021)
 
-The server of spacemy seem to be dead after January 2021, so you probably won't be able to see the CSS contents anymore, you just won't.
+Project spacemy has been discontinued, so you probably won't be able to see the CSS contents anymore, you just won't.
 
 Well I do provide you a solution, go download the MySpace recreation project [the-real-sumsome/spacemy.xyz-rebooted](https://github.com/the-real-sumsome/spacemy.xyz-rebooted) and create your own profile to load my CSS. I wouldn't update any sort of bugs anymore from now on.
