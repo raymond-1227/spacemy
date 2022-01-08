@@ -6,7 +6,7 @@ This is an example CSS code for the retropective MySpace recreation "spacemy" pr
 
 ## Examples
 
-For live example: (The server of spacemy seem to be dead)
+For live example: (You can't anymore, spacemy is discontinued.)
 
  - Main Profile: [raymond](https://www.spacemy.xyz/profile.php?id=258) (Updated Profile ID from "82" to "258")
  
